@@ -33,14 +33,6 @@
 [gmail]: https://mail.google.com/mail/u/0/
 [linkedin]: http://linkedin.com/in/chandana-chandrashekar-4767bb228
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chandana M C&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chandana M C&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandana M C&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Chandana M C&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
 
