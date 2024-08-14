@@ -4,7 +4,6 @@
 
 -  Bachelor of Engineering in CSE (VTU)
 -  Aim: Excel as a full-stack developer
-            <img align='right' src="https://i.postimg.cc/yNsRTgb8/business-1.png" width="240">
 
 
 
@@ -24,7 +23,6 @@
 <img align="left" alt="JavaScript" width="34px" src="https://img.icons8.com/color/48/javascript--v1.png" />
 <img align="left" width="34px"  src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo" />
 <img align="left" alt="MySQL" width="36px" src="https://img.icons8.com/color/48/mysql-logo.png" />
-<img align="left" alt="Visual Studio Code" width="34px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
 <img align="left" alt="Visual Studio Code" width="34px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />
 <img align="left" width="32px"  src="https://img.icons8.com/officexs/48/java-eclipse.png" alt="java-eclipse" />
 
