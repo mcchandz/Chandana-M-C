@@ -4,7 +4,7 @@
 
 -  Bachelor of Engineering in CSE (VTU)
 -  Aim: Excel as a full-stack developer
--  Fun fact:            
+-  Fun fact: Cooking, Singing        
 
 
 
