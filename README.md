@@ -1,9 +1,10 @@
  ##  Hey there 👋
- #  I'm CHANDANA
+ #  I'm Chandana M C 
 
 
 -  Bachelor of Engineering in CSE (VTU)
 -  Aim: Excel as a full-stack developer
+-  Fun fact:            
 
 
 
@@ -13,7 +14,6 @@
 [<img align="left" alt="me | Gmail" width="22px" src="https://img.icons8.com/color/48/gmail-new.png" />][gmail]
 [<img align="left" alt="me | LinkedIn" width="27"  src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
 <br />
-
 
 
 ### Languages and Tools that I use:
@@ -30,16 +30,17 @@
 <br />
 <br />
   
-[gmail]: https://mail.google.com/mail/u/0/
+[gmail]: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
 [linkedin]: http://linkedin.com/in/chandana-chandrashekar-4767bb228
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lohithgowda1&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lohithgowda1&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohithgowda1&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-
-
-
+---
+[![](https://visitcount.itsvg.in/api?id=Lohithgowda1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
