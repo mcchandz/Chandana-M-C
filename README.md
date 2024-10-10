@@ -1,5 +1,3 @@
-mcchandz/README.md
-
  ##  Hey there 👋
  #  I'm Chandana M C 
 
